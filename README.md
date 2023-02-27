@@ -1,2 +1,2 @@
 # 18CSE301J_RA2011029010013
-<a href="https://public.tableau.com/views/ElectiondataanalysisinTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="blank">link</a>
+<a href="https://public.tableau.com/views/ElectiondataanalysisinTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hrithikcurious" height="30" width="40" /></a>
