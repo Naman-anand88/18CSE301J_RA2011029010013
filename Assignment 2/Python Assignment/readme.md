@@ -1,0 +1,11 @@
+#Files used in Python Asignment
+<ol>
+  <li><a href="Assignment 2/Python Assignment/Panchatantra.txt" target="blank">This is the .txt file used for the analysis</a></li>
+  <li><a href="Assignment 2/Python Assignment/Panchatantra word image.png" target="blank">This is the panchatantra word image used for making panchatantra word cloud.</a></li>
+  <li><a href="Assignment 2/Python Assignment/Monkey image for word cloud.png" target="blank">This is the image of a monkey for making word cloud</a></li>
+  <li><a href="Assignment 2/Python Assignment/Crocodile image for word cloud.png" target="blank">This is the image of a crocodile for making a word cloud</a></li>
+  <li><a href="Assignment 2/Python Assignment/Word cloud image.png" target="blank">This is the generated word cloud</a></li>
+  <li><a href="Assignment 2/Python Assignment/Word cloud image in the shape of panchatantra text.png" target="blank">This is the generated word cloud in the shape of panchatantra text</a></li>
+  <li><a href="Assignment 2/Python Assignment/Word cloud image in the shape of a crocodile.png" target="blank">This is the generated word cloud in the shape of a crocodile.</a></li>
+  <li><a href="Assignment 2/Python Assignment/Word cloud image in the shape of a monkey.png" target="blank">This is the generated word cloud in the shape of a monkey</a></li>
+  </ol>
