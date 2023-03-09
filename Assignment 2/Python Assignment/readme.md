@@ -1,4 +1,4 @@
-#Files used in Python Asignment
+# Files used in Python Asignment
 <ol>
   <li><a href="Assignment 2/Python Assignment/Panchatantra.txt" target="blank">This is the .txt file used for the analysis</a></li>
   <li><a href="Assignment 2/Python Assignment/Panchatantra word image.png" target="blank">This is the panchatantra word image used for making panchatantra word cloud.</a></li>
